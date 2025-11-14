@@ -45,5 +45,5 @@ Esta página ofrece una experiencia visual sencilla y funcional que permite a lo
 1. Clona el repositorio:
 
 ```sh
-git clone https://github.com/tu-usuario/el-despertar-sabroso-web.git
+https://github.com/AntF2/El-despertar-sabroso-web.git
 
